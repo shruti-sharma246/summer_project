@@ -1,0 +1,22 @@
+body{
+    font-size: 15px;
+    background: url(../Images/eng/eng-background.jpg);
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover
+}
+.box{
+    background: #098;
+    margin: 3% 30% 2% 30%;
+    padding:2% 5% 2% 5%;
+    background: linear-gradient(45deg, rgba(46, 223, 247, 0.884),white, rgb(52, 112, 109));
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0, 0.23);
+    border-radius: 10%;
+}
+.head{
+    text-align: center;
+    font: bold;
+    color: rgb(37, 37, 58);}
+a{
+    color: rgb(126, 51, 51);
+}
